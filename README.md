@@ -5,7 +5,8 @@ A premium, professional portfolio showcasing the **SLU Alumni Connect** project 
 ## 🌐 Live Demo
 
 **Portfolio:** Open `index.html` in your browser  
-**Live Platform:** [slu-alumni-connect.vercel.app](https://slu-alumni-connect.vercel.app/)
+**Live Platform:** [slu-alumni-connect.vercel.app](https://slu-alumni-connect.vercel.app/)  
+**GitHub Repository:** [github.com/MyDesign-tech/slu-alumni-connect](https://github.com/MyDesign-tech/slu-alumni-connect)
 
 ## 📋 Project Overview
 
