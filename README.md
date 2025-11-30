@@ -81,7 +81,7 @@ Portfolio/
 
 ## 👥 Team
 
-- **Madhu Dheeravath** — Project Lead & Full-Stack Developer
+- **Jaswanth** — Project Lead & Full-Stack Developer
 - **Team Members** — Business Analyst, Data Engineer, UX Designer, QA Engineer
 
 ## 📄 License
